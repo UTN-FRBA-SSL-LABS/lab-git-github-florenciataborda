@@ -12,13 +12,12 @@ int restar(int a, int b) {
     return a - b;
 }
 
-/* ── multiplicar dos enteros ─────────────────────── */
+/* ── multiplicar — implementar en feature/mi-funcion ─────────────────────── */
+/*Multiplicar dos enteros a y b*/
 
 int multiplicar(int a, int b) {
-    (void)a; (void)b;
-    return 0; /* TODO: implementar */
+    /* TODO: implementar */
 }
-
 /* ── esPar ────────────────────────────────────────────────────────────────── */
 
 int esPar(int n) {
