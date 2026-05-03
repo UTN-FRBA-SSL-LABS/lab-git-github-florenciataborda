@@ -15,7 +15,7 @@ int restar(int a, int b) {
 /* ── multiplicar — implementar en feature/mi-funcion ─────────────────────── */
 /*Multiplicar dos enteros a y b*/
 /*Calcula el producto de dos enteros a y b utilizando el operador de mulitplicacion*/
-/*Este procedimiento tiene como finalidad calcular el producto de dos números enteros, denominados a y b, haciendo uso del operador aritmético de multiplicación. */
+/*Este procedimiento tiene como finalidad calcular el producto de dos números enteros, denominados a y b, haciendo uso del operador aritmético de multiplicación...*/
 int multiplicar(int a, int b) {
    
     return a * b; /* TODO: implementar */
