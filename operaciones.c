@@ -9,7 +9,7 @@ int sumar(int a, int b) {
 /* ── restar — ya implementada ────────────────────────────────────────────── */
 
 int restar(int a, int b) {
-    return a - b;
+    return a - b; //mal aproposito
 }
 
 /* ── multiplicar — implementar en feature/mi-funcion ─────────────────────── */
